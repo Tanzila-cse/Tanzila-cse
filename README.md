@@ -66,7 +66,7 @@
 ## 📫 Connect with Me
 
 - LinkedIn: www.linkedin.com/in/tanzila-alaam-a7145b255
-- Email: tanzila.muatsa@gmail.com## Hi there 👋
+- Email: tanzila.muatsa@gmail.com
 
 <!--
 **Tanzila-cse/Tanzila-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
